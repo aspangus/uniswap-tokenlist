@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Emily DAO",
+    "setSymbol": "EMILY",
+    "setDecimals": 18,
+    "setIcon": "https://github.com/aspangus/uniswap-tokenlist/commit/b86b9ff5136cec476ed0db390c13ef6538589df3",
+    "setDescription": "Passive exposure to four DAO's who are leading the development of DAOfi as a sector, covering the three main DAO themes - Service Providers accumulating governance tokens (SDT), DAO's issuing a Reserve Asset (FXS, TRIBE) and Governance DAO's (BTRFLY)",
+    "website": "https://boudicea.io",
+    "managerName": "Boudicea"
+    "managerTwitter":"@Etrusca43951998",
+    "managerIcon": "https://github.com/aspangus/uniswap-tokenlist/commit/b6b7fe4e2daa13537aaa8bb3d46091f1ca2b21fa"
+    "managerDescription": "Boudicea is a crypto investor platform and a Set advocate. Boudicea offers an easy entry into the crypto world with core income-generating coins and fully-collateralized thematics''
+  },
+  "version": 1
+}
